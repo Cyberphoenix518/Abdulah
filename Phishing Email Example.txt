@@ -1,0 +1,17 @@
+Subject: Urgent: Your Account Has Been Compromised - Action Required!
+
+Dear Customer,
+
+We have detected suspicious activity on your account with [Bank Name]. To protect your funds and personal information, we need you to verify your account immediately.
+
+Please click the link below to log in and confirm your identity:
+https://secure-bankname-login.com/verify
+
+If you do not verify within 24 hours, your account may be temporarily suspended. For your security, do not share your password or account details with anyone.
+
+If you have any questions, contact our support team at support@bankname-help.com.
+
+Thank you for your prompt attention.
+
+Best Regards,
+[Bank Name] Security Team
